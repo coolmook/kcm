@@ -1,0 +1,11 @@
+D:\KCM\source\kcm\WindowForm\q10\bin\Debug\q10.exe.config
+D:\KCM\source\kcm\WindowForm\q10\bin\Debug\q10.exe
+D:\KCM\source\kcm\WindowForm\q10\bin\Debug\q10.pdb
+D:\KCM\source\kcm\WindowForm\q10\obj\Debug\q10.csproj.AssemblyReference.cache
+D:\KCM\source\kcm\WindowForm\q10\obj\Debug\q10.csproj.SuggestedBindingRedirects.cache
+D:\KCM\source\kcm\WindowForm\q10\obj\Debug\q10.Form1.resources
+D:\KCM\source\kcm\WindowForm\q10\obj\Debug\q10.Properties.Resources.resources
+D:\KCM\source\kcm\WindowForm\q10\obj\Debug\q10.csproj.GenerateResource.cache
+D:\KCM\source\kcm\WindowForm\q10\obj\Debug\q10.csproj.CoreCompileInputs.cache
+D:\KCM\source\kcm\WindowForm\q10\obj\Debug\q10.exe
+D:\KCM\source\kcm\WindowForm\q10\obj\Debug\q10.pdb
