@@ -21,7 +21,7 @@ namespace q10
         {
             webBrowser1.Navigate("https://qsm.qoo10.jp/GMKT.INC.Gsm.Web/QSpecial/QSpecialPlus.aspx");
         }
-
+//test burn7
         private void buttonSelect_Click(object sender, EventArgs e)
         {
             webBrowser1.Document.GetElementById("txtLoginID").SetAttribute("value", "tirtir2");
